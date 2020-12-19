@@ -1,0 +1,19 @@
+Que fait le systeme EXDEMA pour  les interacteurs ?;;;;;;;;;;;;
+;;;;;;;;;;;;
+EXDEMA;Ouvriers;Personnel de maintenance;Gouvernement allemand;Eau-gaz;Dechets;Sel;Ascenceur;Ressources energetiques;Elements indesirables;Moules;Unite de decontamination;Centre de commande
+Ouvriers;emploi;vide la mine;;;;;;evacuation;;;
+Personnel de maintenance;systeme repare;mission de reparation;;;;;;;;;;
+Gouvernement allemand;;;;;;;;;;;;
+Eau-gaz;vide la mine;;vide la mine;;;;;;;;;
+Dechets;vide la mine;;vide la mine;;;;;;;;;
+Sel;vide la mine;;vide la mine;;;;;;;;;
+Ascenceur;contrele de l'ascenseur;;;;;;;;evacuation;;;
+Ressources energetiques;vide la mine;;vide la mine;;;;;;evacuation;;;
+Elements indesirables;;;;;;;;;;;;
+Moules;vide la mine;;vide la mine;;;;;;;;;
+Unite de decontamination;decontamination si descente dans la mine;;;;;;;;decontamination;;;
+Centre de commande;contrele du systeme;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;Y;;;;;;;;;;;
+X;Ce qu'EXDEMA fait pour Y e partir de X;;;;;;;;;;;
